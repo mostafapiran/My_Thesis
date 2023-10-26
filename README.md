@@ -1,8 +1,8 @@
 # My_Thesis
- My research on the diagnosis of epilepsy based on brain signals as a master's thesis.
+ My research on the diagnosis of epilepsy is based on brain signals as a master's thesis.
 
 
-##Abstract:
+## Abstract:
 According to the World Health Organization, epilepsy is the most common brain disorder
 that affects approximately fifty million people worldwide. Epilepsy diagnosis relies on
 manual EEG inspection, which is error-prone and time-consuming. Automatic diagnosis
@@ -24,4 +24,5 @@ was available to increase accuracy and reduce error.
 
 <p align="center">
     <img src="./Doc/3.3.1.jpg">
+    <img src="./Doc/3.3.2.jpg">
 </p>
