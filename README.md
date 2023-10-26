@@ -23,7 +23,10 @@ promising results for the construction of personalized seizure detectors. Not en
 was available to increase accuracy and reduce error.
 
 <p align="center">
-    <img src="./Doc/3.3.1.jpg">
-    <img src="./Doc/3.3.2.jpg">
-    <img src="./Doc/3.7.png">
+ <img src="./Doc/3.3.1.jpg">
+ <img src="./Doc/3.3.2.jpg">
+ <img src="./Doc/3.7.png">
+ <img src="./Doc/3.9.png">
+ <img src="./Doc/3.10.png">
+ <img src="./Doc/.1.png">
 </p>
