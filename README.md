@@ -25,4 +25,5 @@ was available to increase accuracy and reduce error.
 <p align="center">
     <img src="./Doc/3.3.1.jpg">
     <img src="./Doc/3.3.2.jpg">
+    <img src="./Doc/3.7.png">
 </p>
