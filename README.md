@@ -1,5 +1,7 @@
 # My_Thesis
  My research on the diagnosis of epilepsy is based on brain signals as a master's thesis.
+ 
+ **Thesis Topic:** Design of epileptic activity detection system using deep learning methods from electrocorticographic signals in rats
 
 
 ## Abstract:
